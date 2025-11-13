@@ -1,0 +1,10 @@
+{
+    "feature_columns": [
+      "age","salary","city_type","education_level","employment_type","marital_status",
+      "dependents","risk_level","financial_knowledge","monthly_expenses","current_savings",
+      "loan_amount","has_loans","investment_goal","emergency_fund_ratio"
+    ],
+    "target_columns": ["stocks","mutual_funds","gold_silver","bonds"],
+    "pca_n_components": null
+  }
+  
